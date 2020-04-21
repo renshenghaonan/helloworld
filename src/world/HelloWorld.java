@@ -2,6 +2,6 @@ package world;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("HHHHelloWorld¸ÄÒ»¸Ä");
+		System.out.println("HHHHelloWorldä½ å¥½å•Š");
 	}
 }
